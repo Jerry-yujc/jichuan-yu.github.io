@@ -4,23 +4,19 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="frontpage-photo.jpg" class="floatpic" width="413" height="579">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Jichuan Yu (于济川)**, you can also call me **Jerry**.
 
 I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in Vancouver, please feel free to chat with me.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
-## Academic Background
+## Education
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
+- **Sep. 2021 - June 2026:** Tsinghua University (Ph.D)
+- **Sep. 2017 - June 2021:** Tsinghua University (B.E.)
+- **Aug. 2019 - Dec. 2019:** McGill University (Exchange)
 
 <br>
 
