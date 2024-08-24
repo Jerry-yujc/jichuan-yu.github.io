@@ -1,28 +1,19 @@
 title: Jichuan Yu
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+tagline: Here is personal website of Jichuan Yu. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+# url: https://jichuan-yu.com
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Jichuan Yu
+  # avatar: xxxx.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: yujcjerry@gmail.com
+  cv: https://caihanlin.com/file/CV-JichuanYu.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
+  # linkedin: hanlincai
+  scholar: https://scholar.google.com/citations?user=r1CbZp8AAAAJ
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:
 
@@ -42,12 +33,8 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Teams
-    url: /teams/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - title: News
+    url: /news/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
@@ -78,10 +65,9 @@ kramdown:
 
 
 # disqus settings:
-disqus:
-  shortname: lancecai
+# disqus:
+#   shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
