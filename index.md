@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="frontpage-photo.jpg" class="floatpic" width="413" height="579">
+<img src="images/portrait.jpg" class="floatpic" width="480" height="640">
 
 Here is **Jichuan Yu (于济川)**, you can also call me **Jerry**.
 
@@ -12,7 +12,7 @@ Here is **Jichuan Yu (于济川)**, you can also call me **Jerry**.
 
 I am a Ph.D student in the Department of Mechanical Engineering at Tsinghua University, advised by Prof. Chuxiong Hu. My reserach interests are in robotic motion planning and intelligent control.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *yujcjerry@gmail.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at  *yujcjerry@gmail.com*
 
 ## Education
 
