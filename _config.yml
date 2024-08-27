@@ -1,6 +1,6 @@
 title: Jichuan Yu
 description: Here is personal website of Jichuan Yu. Powered by Jekyll.
-theme: jekyll-theme-minimal
+
 #Comment out url when working locally to resolve base urls correctly
 # url: https://jichuan-yu.com
 
@@ -30,15 +30,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
+  - title: Research
+    url: /research/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: News
+  - title: News and Activities
     url: /news/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown

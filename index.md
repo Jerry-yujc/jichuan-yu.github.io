@@ -4,23 +4,37 @@ layout: page
 
 # About Me
 
-<img src="images/portrait.jpg" class="floatpic" width="480" height="640">
+<img src="images/portrait.jpg" class="floatpic">
 
 Here is **Jichuan Yu (于济川)**, you can also call me **Jerry**.
-
 
 
 I am a Ph.D student in the Department of Mechanical Engineering at Tsinghua University, advised by Prof. Chuxiong Hu. My reserach interests are in robotic motion planning and intelligent control.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at  *yujcjerry@gmail.com*
 
+---
+
 ## Education
 
-- **Sep. 2021 - June 2026 (expected):** Tsinghua University (Ph.D)
-- **Sep. 2017 - June 2021:** Tsinghua University (B.E.)
-- **Aug. 2019 - Dec. 2019:** McGill University (Exchange)
+<div>
+  <p><strong>Ph.D. in Mechanical Engineering - Tsinghua University</strong></p>
+  <p>Sep. 2021 - Jun. 2026 (expected)</p>
+  <p>Beijing, China</p>
+</div>
 
-<br>
+<div>
+  <p><strong>Bachelor in Mechanical Engineering - Tsinghua University</strong></p>
+  <p>Sep. 2017 - Jun. 2021</p>
+  <p>Beijing, China</p>
+</div>
+
+<div>
+  <p><strong>Exchange Student in Mechanical Engineering - McGill University</strong></p>
+  <p>Aug. 2019 - Dec. 2019</p>
+  <p>Montreal, Canada</p>
+</div>
+
 
 ---
 
@@ -30,7 +44,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Multi-robotic arm cooperation
 - Convex Optimization
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on 
 
 <br>
 
