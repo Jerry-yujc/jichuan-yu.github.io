@@ -2,9 +2,10 @@
 layout: page
 ---
 
-# About Me
+## About Me
+<img src="images/portrait.jpg" class="floatpic2">
 <br>
-<img src="images/portrait.jpg" class="floatpic">
+
 
 Here is **Jichuan Yu (于济川)**, you can also call me **Jerry**.
 
