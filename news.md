@@ -14,7 +14,7 @@ title: News
 
 ---
 
-## Honored to Give Speech at CSMNT 2023
+## Honored to Present Our Recent Work on Laser-assisted 3D Printing of Refractory Metals at CSMNT 2023
 **Shenzhen,China &nbsp;&nbsp; Oct. 2023**
 <div>
 <img src="/images/news/CSMNT2023.jpg">
@@ -23,19 +23,7 @@ title: News
 
 
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There
 
 
-## Workshop
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There
+

@@ -3,15 +3,21 @@ layout: page
 ---
 
 # About Me
-
+<br>
 <img src="images/portrait.jpg" class="floatpic">
 
 Here is **Jichuan Yu (于济川)**, you can also call me **Jerry**.
 
 
-I am a Ph.D student in the Department of Mechanical Engineering at Tsinghua University, advised by Prof. Chuxiong Hu. My reserach interests are in robotic motion planning and intelligent control.
+I am a Ph.D candidate in the [Department of Mechanical Engineering](https://me.tsinghua.edu.cn/en/) at Tsinghua University, under the supervision of Prof. [Chuxiong Hu](https://me.tsinghua.edu.cn/en/info/1275/2062.htm). I got my bachelor degree in Mechanical Engineering at Tsinghua University at 2021.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at  *yujcjerry@gmail.com*
+
+
+
+<br>**Contact:**
+<br>yujc21@mails.tsinghua.edu.cn
+<br>yujcjerry@gmail.com
+
 
 ---
 
@@ -47,12 +53,15 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 My current research focuses on 
 
 <br>
-
 ---
 
-## News and Updates
+## Publications
 
-- **July 2024：** Our paper [Hierarchical real-time motion planning for safe multi-robot
-manipulation in dynamic environments]() has received the Best Paper Awarded in Advanced Robotics at ICARM 2024!
+
+<br>
+---
+
+## Honors and Awards
+
 
 

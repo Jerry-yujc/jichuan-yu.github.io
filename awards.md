@@ -16,7 +16,7 @@ title: Awards
 ## Competitions and Academic Awards
 
 - **Best Paper Award in Advanced Robotics** at [ICARM 2024](http://www.ieee-arm.org/)
-- **National 1st Prize** in China Mechanical Engineering Innovation Competition, Micro-Nano Sensing Technology and Intelligent Applications Category, Postgraduate Group (Top 1%) - 2023
+- **National 1st Prize** in China Mechanical Engineering Innovation Competition, Micro-Nano Sensing Technology and Intelligent Applications Category, Postgraduate Group (**Rank: 1/88**) - 2023
 
 
 ## Honors
