@@ -35,9 +35,8 @@ bundle exec jekyll serve
 
 ## Reference
 
-This website is built upon the template provided by [Hanlin Cai](https://caihanlin.com)
+This website is built upon the template and tutorials provided by [Hanlin Cai](https://caihanlin.com)
 
 - [Jekyll website building videos](https://www.bilibili.com/video/BV1ja4y1G7tX/) (小白建站视频)
 - [Website building tutorials](https://caihanlin.com/blogs/web/)  (建站完全指南)
 
-© 2024 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
