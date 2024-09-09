@@ -188,6 +188,13 @@ svg:not(:root){overflow:hidden;}
 .third img{display:inline;float:left;width:calc(33.3333% - 3px); margin-right:3px;}
 .third img:last-child {margin-right: 0;} /* 取消最后一张图片的右边距 */
 .third figcaption{display:inline;float:left;width:100%;}
+.logo {
+  display: block; /* 确保图像是块级元素 */
+  height: calc(4 * 1em); /* 设置高度为 3 行 */
+  float: right; /* 右对齐 */
+  margin-left: 2em; 
+  margin-right: 2em;
+}
 .centered-75 {
   width: 75%; /* 设置宽度为 75% */
   margin: 0 auto; /* 自动水平居中 */

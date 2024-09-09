@@ -35,7 +35,7 @@ A hierarchical real-time motion planning framework is proposed for dual-arm coll
 </div>
 <br>
 
-This is an interdisciplinary research project co-advised by Prof. [Chuxiong Hu](https://me.tsinghua.edu.cn/en/info/1275/2062.htm) and Prof. [Xining Zang](https://me.tsinghua.edu.cn/en/info/1280/1923.htm). We proposed a Direct Ink Writing and Tar-Mediated Laser Sintering (DIW-TMLS) process and developed the corresponding equipment, enabling rapid fabrication of refractory metal patterns in ambient air. The DIW-TMLS process can create conformal circuits on 3D curvilinear surfaces and even produce 3D freestanding architectures. In addition, a molybdenum-patterned wireless sensor is demonstrated, which capable of withstanding temperature up to 350°C and exposure to flames.
+This is an interdisciplinary research project co-advised by Prof. [Chuxiong Hu](https://me.tsinghua.edu.cn/en/info/1275/2062.htm) and Assoc. Prof. [Xining Zang](https://me.tsinghua.edu.cn/en/info/1280/1923.htm). We proposed a Direct Ink Writing and Tar-Mediated Laser Sintering (DIW-TMLS) process and developed the corresponding equipment, enabling rapid fabrication of refractory metal patterns in ambient air. The DIW-TMLS process can create conformal circuits on 3D curvilinear surfaces and even produce 3D freestanding architectures. In addition, a molybdenum-patterned wireless sensor is demonstrated, which is capable of withstanding temperature up to 350°C and exposure to flames.
 
 *Publication: [**J. Yu**, C. Hu, et al., Advanced Science, 2023](https://onlinelibrary.wiley.com/doi/10.1002/advs.202302479). **(Inside Back Cover)***
 
@@ -61,5 +61,5 @@ This is an extension of my undergraduate thesis. Contouring error is an importan
 </div>
 <br>
 
-This project is supported by the National Training Program of Innovation and Entrepreneurship for Undergraduates, under the supervision of Assoc. Prof. [Dongchao Yang](https://me.tsinghua.edu.cn/en/info/1276/1950.htm). We designed a gait planning algorithm for quadruped robots based on modulated Central Pattern Generator (CPG) network. The algorithm is verified on a self-developed quadruped robot prototype. In addition, we designed a leg admittance control strategy that enables compliant walking on slopes.
+This project is supported by the National Training Program of Innovation and Entrepreneurship for Undergraduates, under the supervision of Assoc. Prof. [Dongchao Yang](https://me.tsinghua.edu.cn/en/info/1276/1950.htm). We designed a gait planning algorithm for quadruped robots based on modulated Central Pattern Generator (CPG) network. The algorithm is verified on a self-developed quadruped robot prototype. In addition, we designed a leg admittance control strategy that enables compliant walking on uneven ground.
 

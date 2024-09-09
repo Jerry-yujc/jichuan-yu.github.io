@@ -26,23 +26,25 @@ Prior to this, I have also worked on some interesting projects, such as laser-as
 
 ## Education
 
+<img src="images/Tsinghua_logo.png" class="logo">
 **Ph.D. in Mechanical Engineering - Tsinghua University**
 <br>Sep. 2021 - Jun. 2026 (expected)
 <br>Beijing, China
 
-
-<br>**Bachelor in Mechanical Engineering - Tsinghua University**
+<br><img src="images/Tsinghua_logo.png" class="logo">
+**Bachelor in Mechanical Engineering - Tsinghua University**
 <br>Sep. 2017 - Jun. 2021
 <br>Beijing, China
 
-<br>**Exchange Student in Mechanical Engineering - McGill University**
+<br><img src="images/McGill_logo.png" class="logo">
+**Exchange Student in Mechanical Engineering - McGill University**
 <br>Aug. 2019 - Dec. 2019
 <br>Montreal, Canada
 
 
 ---
 
-## Publications
+## Selected Publications
 
 - **J. Yu**, Z. Jin, C. Hu, et al., **"Hierarchical real-time motion planning for safe multi-robot manipulation in dynamic environments,"** in *IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, Tokyo, Japan, 2024. **<font color='red'>(Best Paper Award in Advanced Robotics)</font>** (In Press)
 
