@@ -9,7 +9,7 @@ layout: page
 Here is **Jichuan Yu (于济川)**, you can also call me **Jerry**.
 
 
-I am a Ph.D candidate in the [Department of Mechanical Engineering](https://me.tsinghua.edu.cn/en/) at Tsinghua University, under the supervision of Prof. [Chuxiong Hu](https://me.tsinghua.edu.cn/en/info/1275/2062.htm). I got my bachelor degree in Mechanical Engineering at Tsinghua University in 2021.
+I am a Ph.D. candidate in the [Department of Mechanical Engineering](https://me.tsinghua.edu.cn/en/) at Tsinghua University, under the supervision of Prof. [Chuxiong Hu](https://me.tsinghua.edu.cn/en/info/1275/2062.htm). I got my bachelor degree in Mechanical Engineering at Tsinghua University in 2021.
 
 I have a broad interest in motion planning and control for advanced mechatronic systems, such as manipulators and CNC machines. I am dedicated to empowering mechatronic systems with greater intelligence through innovative algorithms, enabling them to serve humankind more effectively.
 
